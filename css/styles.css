@@ -19,8 +19,12 @@ a:hover {
 	color: #227115;
 }
 
-/* Logo 
------------------------------------- */
+/* ===Logo===*/
+
+#logo h1 {
+	float: left;
+}
+
 #logo a {
 	width: 248px;
 	height: 21px;
@@ -30,8 +34,7 @@ a:hover {
 }
 
 
-/* Barra de navegação 
------------------------------------- */
+/* ===Barra de navegação=== */
 header {
 	padding: 15px 0;
 	height: 55px;
